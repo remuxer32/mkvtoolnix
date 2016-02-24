@@ -1279,7 +1279,7 @@ msgstr "(&D) Czas trwania każdego (pod)rozdziału w sekundach:"
 
 #: src/mkvtoolnix-gui/jobs/tool.cpp:320
 msgid "&Edit in corresponding tool and remove from queue"
-msgstr "Edytuj za pomocą odpowiedniego narzędzia i usuń z kolejki (&D)"
+msgstr "Edytuj za pomocą odpowiedniego narzędzia i usuń z kolejki (&E)"
 
 #: src/mkvtoolnix-gui/merge/input.cpp:1256
 msgid "&Enable all tracks"
@@ -8324,11 +8324,11 @@ msgstr ""
 
 #: src/mkvtoolnix-gui/forms/chapter_editor/mass_modification_dialog.h:184
 msgid "Set the chapter names' &languages:"
-msgstr "Ustaw język nazw rozdziałów:"
+msgstr "(&L) Ustaw język nazw rozdziałów:"
 
 #: src/mkvtoolnix-gui/forms/chapter_editor/mass_modification_dialog.h:185
 msgid "Set the chapter names' co&untries"
-msgstr "Ustaw państwo nazw rozdziałów:"
+msgstr "(&U) Ustaw państwo nazw rozdziałów:"
 
 #: src/propedit/propedit_cli_parser.cpp:233
 msgid ""
@@ -8575,7 +8575,7 @@ msgstr ""
 
 #: src/mkvtoolnix-gui/forms/chapter_editor/mass_modification_dialog.h:186
 msgid "Sort chapters by their start and end ti&mecodes"
-msgstr "Uporządkuj rozdziały wg &czasów"
+msgstr "Uporządkuj rozdziały wg czasów (&M)"
 
 #: src/mkvtoolnix-gui/forms/merge/tab.h:1554
 msgid "Source &files:"
